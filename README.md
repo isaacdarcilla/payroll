@@ -18,13 +18,16 @@ Before you proceed to installation, make sure you have installed `XAMPP` first a
 * `nano Global.php` - edit database config
 
 ```php
-$db['default'] = array(
-    'dsn'   => '',
-    'hostname' => 'localhost',
-    'username' => 'root',
-    'password' => '',
-    'database' => 'booking',
+public function SQLConnection(){
+		$connection = array("server" => "localhost", "user" => "root", "password" => "", "database" => "payroll");
     ...
+```
+
+```php
+public function Database(){
+		$database = mysqli_select_db($this->SQLConnection(), 'payroll');
+		return $database;
+}
 ```
 
 * Edit server credentials and database name
@@ -32,8 +35,8 @@ $db['default'] = array(
 
 ## 💻 Admin Demonstration
 
-* Username: `isaac@email.com`
-* Password: `user`
+* Username: `admin`
+* Password: `1234`
 
 ## ✨ Screenshot
 
