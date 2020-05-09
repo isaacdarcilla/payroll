@@ -47,9 +47,15 @@ public function Database(){
 * Edit server credentials and database name
 
 
-## 💻 Admin Demonstration
+## 💻 Demonstration
 
 * Username: `admin`
+* Password: `1234`
+
+* Username: `timekeeper`
+* Password: `1234` 
+
+* Username: `secretary`
 * Password: `1234`
 
 ## ✨ Screenshot
