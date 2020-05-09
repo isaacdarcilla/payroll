@@ -7,7 +7,12 @@
 * User role login
 * Barcode scanning
 * Employee profiling
-*  
+* Employee ID generator
+* Attendance monitoring
+* Automatic payslip
+* Filter of attendance
+* Filter of payroll
+* Employee adding
 
 ## ✨ Prerequisites
 
