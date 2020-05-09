@@ -13,6 +13,7 @@
 * Filter of attendance
 * Filter of payroll
 * Employee adding
+* And more...
 
 ## ✨ Prerequisites
 
@@ -22,7 +23,7 @@
 
 Before you proceed to installation, make sure you have installed `XAMPP` first and import the database in `phpmyadmin`.
 
-** Message me on [Facebook](https://web.facebook.com/isaacdarcilla) for the database file **
+**Message me on [Facebook](https://web.facebook.com/isaacdarcilla) for the database file**
 
 ## ✨ Installation
 
@@ -33,7 +34,10 @@ Before you proceed to installation, make sure you have installed `XAMPP` first a
 
 ```php
 public function SQLConnection(){
-		$connection = array("server" => "localhost", "user" => "root", "password" => "", "database" => "payroll");
+		$connection = array("server" => "localhost", 
+				    "user" => "root", 
+				    "password" => "", 
+				    "database" => "payroll");
     ...
 ```
 
