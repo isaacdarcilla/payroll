@@ -10,6 +10,8 @@
 
 Before you proceed to installation, make sure you have installed `XAMPP` first and import the database in `phpmyadmin`.
 
+** Message me on [Facebook](https://web.facebook.com/isaacdarcilla) for the database file **
+
 ## ✨ Installation
 
 * `git clone https://github.com/isaacdarcilla/payroll.git` - clone the repository
