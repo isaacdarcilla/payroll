@@ -12,7 +12,7 @@ Before you proceed to installation, make sure you have installed `XAMPP` first a
 
 ## ✨ Installation
 
-* `git clone https://github.com/isaacdarcilla/booking-system.git` - clone the repository
+* `git clone https://github.com/isaacdarcilla/payroll.git` - clone the repository
 * `cd payroll` - change to project directory
 * `cd admin/session` - go to database 
 * `nano Global.php` - edit database config
