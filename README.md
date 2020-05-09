@@ -68,7 +68,7 @@ More screenshot can be found in ```screenshots``` folder.
 
 Home  | Search
 ------------- | -------------
-![App](https://github.com/isaacdarcilla/booking-system/blob/master/screenshots/DeepinScreenshot_20200331180906.png) | ![App](https://github.com/isaacdarcilla/booking-system/blob/master/screenshots/DeepinScreenshot_20200331180935.png)
+![HOME](https://github.com/isaacdarcilla/payroll/blob/master/docs/Screenshot_2019-09-15%20Profiling%20and%20Payroll%20Management%20System(1).png) | ![App](https://github.com/isaacdarcilla/payroll/blob/master/docs/Screenshot_2019-09-15%20Profiling%20and%20Payroll%20Management%20System(10).png)
 
 ## ✨ License
 
