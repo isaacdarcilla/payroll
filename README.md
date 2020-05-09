@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.anexia-it.com/blog/wp-content/uploads/2015/01/codeigniter_logo.png" width="500"></p>
+<p align="center"><img src="https://events.nokidhungry.org/wp-content/uploads/2018/01/Payroll-Final-Logo.png" width="500"></p>
 
 <h4 align="center">Payroll management system with employee profiling and attendance monitoring</h4>
 
