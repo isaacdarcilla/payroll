@@ -13,6 +13,7 @@
 * Filter of attendance
 * Filter of payroll
 * Employee adding
+* Scanner integration
 * And more...
 
 ## ✨ Prerequisites
