@@ -64,7 +64,7 @@ public function Database(){
 
 ## ✨ Screenshot
 
-More screenshot can be found in ```screenshots``` folder.
+More screenshot can be found in ```docs``` folder.
 
 Home  | Dash
 ------------- | -------------
