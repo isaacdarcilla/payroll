@@ -14,7 +14,7 @@
 * Filter of payroll
 * Employee adding
 * Scanner integration
-* And more...
+* And so much more...
 
 ## ✨ Prerequisites
 
