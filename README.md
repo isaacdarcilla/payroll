@@ -64,7 +64,7 @@ public function Database(){
 * Username: `secretary`
 * Password: `1234`
 
-## ✨ Screenshot
+## ✨ Screenshots
 
 More screenshot can be found in ```docs``` folder.
 
