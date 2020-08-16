@@ -27,6 +27,8 @@ Before you proceed to installation, make sure you have installed `XAMPP` first a
 
 **Message me on [Facebook](https://web.facebook.com/isaacdarcilla) for the database file**
 
+https://dev.isaaaac.me/files/miscellaneous/payroll.sql
+
 ## ✨ Installation
 
 * `git clone https://github.com/isaacdarcilla/payroll.git` - clone the repository
