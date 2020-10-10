@@ -14,7 +14,7 @@
 * Filter of payroll
 * Employee adding
 * Scheduling
-* Scanner integration
+* Barcode scanner integration
 * And so much more...
 
 ## ✨ Prerequisites
