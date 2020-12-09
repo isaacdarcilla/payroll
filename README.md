@@ -13,7 +13,7 @@
 * Filter of attendance
 * Filter of payroll
 * Employee adding
-* Scheduling
+* Scheduling of employees
 * Barcode scanner integration
 * And so much more...
 
