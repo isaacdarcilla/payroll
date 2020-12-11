@@ -69,7 +69,7 @@ public function Database(){
 
 More screenshot can be found in ```docs``` folder.
 
-Home  | Dash
+Home  | Dashboard
 ------------- | -------------
 ![HOME](https://github.com/isaacdarcilla/payroll/blob/master/docs/Screenshot_2019-09-15%20Profiling%20and%20Payroll%20Management%20System(1).png) | ![HOME](https://github.com/isaacdarcilla/payroll/blob/master/docs/Screenshot_2019-09-15%20Profiling%20and%20Payroll%20Management%20System(11).png)
 
