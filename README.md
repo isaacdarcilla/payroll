@@ -11,7 +11,7 @@
 * Attendance monitoring
 * Automatic payslip
 * Filter of attendance
-* Filter of payroll
+* Filter of payrolls
 * Employee adding
 * Scheduling of employees
 * Barcode scanner integration
