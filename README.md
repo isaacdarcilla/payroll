@@ -17,7 +17,6 @@
 * Barcode scanner integration
 * And so much more...
 
-
 ## ✨ Prerequisites
 
 * XAMPP ^7.4
