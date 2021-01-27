@@ -30,7 +30,7 @@ PLEASE STAR ⭐ OR FORK IF YOU THINK THIS IS HELPFUL TO YOU.
 **Message me on [Facebook](https://web.facebook.com/isaacdarcilla) for the database file**
 
 ## ✨ Installation
-
+ 
 * `git clone https://github.com/isaacdarcilla/payroll.git` - clone the repository
 * `cd payroll` - change to project directory
 * `cd admin/session` - go to database 
