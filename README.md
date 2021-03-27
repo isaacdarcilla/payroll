@@ -79,7 +79,7 @@ Home  | Dashboard
 
 ## 💻 Developer
 
-Developed by Isaac [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla)
+Developed by Isaac [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla).
 
 ## ✨ Support
 
