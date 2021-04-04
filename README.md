@@ -15,7 +15,7 @@
 * Employee adding
 * Scheduling of employees
 * Barcode scanner integration
-* And so much more...
+* And so much more... 
 
 ## ✨ Prerequisites
 
