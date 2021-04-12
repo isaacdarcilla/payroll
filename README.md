@@ -53,7 +53,7 @@ public function Database(){
 ```
 
 * Edit server credentials and database name
-
+ 
 ## 💻 Demonstration
 
 * Username: `admin`
