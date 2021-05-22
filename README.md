@@ -2,7 +2,7 @@
 
 <h4 align="center">Payroll management system with employee profiling and attendance monitoring</h4>
   
-## 💕 System Features   
+## 💕 System Features  
   
 * User role login 
 * Barcode scanning
