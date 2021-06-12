@@ -60,7 +60,7 @@ public function Database(){
 * Password: `1234`
 
 * Username: `timekeeper`
-* Password: `1234` 
+* Password: `1234`
 
 * Username: `secretary`
 * Password: `1234`
