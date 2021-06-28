@@ -76,7 +76,7 @@ Home  | Dashboard
 ## ✨ License
 
 [Apache 2.0 License](https://github.com/isaacdarcilla/DesktopQuery/blob/master/LICENSE)
-
+ 
 ## 💻 Developer
 
 Developed by Isaac [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla).
