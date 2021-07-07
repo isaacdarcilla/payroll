@@ -8,7 +8,7 @@
 * Barcode scanning
 * Employee profiling  
 * Employee ID generator 
-* Attendance monitoring
+* Attendance monitoring 
 * Automatic payslip
 * Filter of attendance
 * Filter of payrolls
