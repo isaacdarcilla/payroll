@@ -7,7 +7,7 @@
 * User role login 
 * Barcode scanning
 * Employee profiling 
-* Employee ID generator 
+* Employee ID generator  
 * Attendance monitoring 
 * Automatic payslip
 * Filter of attendance
