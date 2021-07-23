@@ -20,7 +20,7 @@
 ## ✨ Prerequisites
 
 * XAMPP ^7.4
-* Git ~2.25
+* Git ~2.25 
 * PHP ^7.3
 
 Before you proceed to installation, make sure you have installed `XAMPP` first and import the database in `phpmyadmin`.
