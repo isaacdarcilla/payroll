@@ -12,7 +12,7 @@
 * Automatic payslip
 * Filter of attendance
 * Filter of payrolls
-* Employee adding
+* Employee adding 
 * Scheduling of employees
 * Barcode scanner integration
 * And so much more...  
