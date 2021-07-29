@@ -32,7 +32,7 @@ PLEASE STAR ⭐ OR FORK IF YOU THINK THIS IS HELPFUL TO YOU.
 ## ✨ Installation
  
 * `git clone https://github.com/isaacdarcilla/payroll.git` - clone the repository
-* `cd payroll` - change to project directory
+* `cd payroll` - change to project directory 
 * `cd admin/session` - go to database 
 * `nano Global.php` - edit database config
 
