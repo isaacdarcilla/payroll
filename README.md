@@ -4,7 +4,7 @@
     
 ## 💕 System Features
 
-* User role login  
+* User role login
 * Barcode scanning
 * Employee profiling 
 * Employee ID generator  
