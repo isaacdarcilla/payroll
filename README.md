@@ -10,7 +10,7 @@
 * Employee ID generator  
 * Attendance monitoring  
 * Automatic payslip
-* Filter of attendance
+* Filter of attendance 
 * Filter of payrolls
 * Employee adding 
 * Scheduling of employees
